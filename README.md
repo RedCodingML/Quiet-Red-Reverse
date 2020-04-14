@@ -18,13 +18,17 @@ Giovanni A. Derks <virtualdk@windows-sucks.com> (Metacity XML)
 
 INSTALLATION
 ------------
-Just unpack into your ~/.metacity/themes directory and use either 
+xfce4: Just unpack into your /usr/share/themes or ~/.local/share/themes 
+directory and use Appearance to switch theme. 
+
+Metacity: unpack into your ~/.metacity/themes directory and use either 
 Metacity Setup or gconf-editor to switch theme. 
 
 AUTHOR(s)
 ---------
 This theme was brought to you by:
 	Red Coding <redcoding@posteo.de>
+
 
             		 !#########       #
                !########!          ##!
