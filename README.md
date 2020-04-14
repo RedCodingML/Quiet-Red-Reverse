@@ -27,10 +27,10 @@ Metacity Setup or gconf-editor to switch theme.
 AUTHOR(s)
 ---------
 This theme was brought to you by:
-	Red Coding <redcoding@posteo.de>
+	Red Coding
 
 
-            		 !#########       #
+                !#########       #
                !########!          ##!
             !########!               ###
          !##########                  ####
