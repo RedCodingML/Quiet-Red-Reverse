@@ -1,4 +1,4 @@
-quiet-red-reverse
+Quiet-red-reverse
 ------------
 A modification of quiet-purple. 
 This theme is in Red-Alert'ish red where active is brighter than inactive.
